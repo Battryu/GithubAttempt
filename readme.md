@@ -1,0 +1,1 @@
+Velkommen to Seans Github skole test Repo!
